@@ -1,4 +1,4 @@
-# Recommadation-System
+# Recommendation-System
 
 A recommendation system, is a software or algorithm that provides personalized suggestions or recommendations to users. These recommendations are typically based on the user's past behavior, preferences, or similar users' behavior. Recommendation systems are widely used in various industries, including e-commerce, entertainment, social media, and content streaming, to enhance user experiences and drive engagement.
 
